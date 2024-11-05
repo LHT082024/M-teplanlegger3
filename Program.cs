@@ -4,11 +4,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        PeopleController peopleController = new PeopleController();
+        MeetingController meetingController = new MeetingController();
 
-        peopleController.plannignMeeting();
+        meetingController.plannignMeeting();
 
-        peopleController.MadeMeeting();
+        meetingController.MadeMeeting();
 
     }
 }

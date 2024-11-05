@@ -6,10 +6,9 @@ using Møteplanlegger3.classes;
 
 namespace Møteplanlegger3
 {
-    public class PeopleController
+    public class MeetingController
     {
         MeetingClass meetingClass = new MeetingClass();
-        People people = new People();
 
         public void plannignMeeting()
         {

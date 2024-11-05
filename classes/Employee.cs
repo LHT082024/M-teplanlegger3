@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Møteplanlegger3.classes
 {
-    public class People
+    public class Employee
     {
         public string? Name { get; set; }
         public int EmployeeNumber { get; set; }
