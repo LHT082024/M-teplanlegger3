@@ -1,0 +1,15 @@
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\Møteplanlegger3\bin\Debug\net8.0\Møteplanlegger3.exe
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\Møteplanlegger3\bin\Debug\net8.0\Møteplanlegger3.deps.json
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\Møteplanlegger3\bin\Debug\net8.0\Møteplanlegger3.runtimeconfig.json
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\Møteplanlegger3\bin\Debug\net8.0\Møteplanlegger3.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\Møteplanlegger3\bin\Debug\net8.0\Møteplanlegger3.pdb
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\Møteplanlegger3\obj\Debug\net8.0\Møteplanlegger3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\Møteplanlegger3\obj\Debug\net8.0\Møteplanlegger3.AssemblyInfoInputs.cache
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\Møteplanlegger3\obj\Debug\net8.0\Møteplanlegger3.AssemblyInfo.cs
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\Møteplanlegger3\obj\Debug\net8.0\Møteplanlegger3.csproj.CoreCompileInputs.cache
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\Møteplanlegger3\obj\Debug\net8.0\Møteplanlegger3.sourcelink.json
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\Møteplanlegger3\obj\Debug\net8.0\Møteplanlegger3.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\Møteplanlegger3\obj\Debug\net8.0\refint\Møteplanlegger3.dll
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\Møteplanlegger3\obj\Debug\net8.0\Møteplanlegger3.pdb
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\Møteplanlegger3\obj\Debug\net8.0\Møteplanlegger3.genruntimeconfig.cache
+C:\Users\lucie\Documents\Intro-HtmlCss\canvasOppgaver\Møteplanlegger3\obj\Debug\net8.0\ref\Møteplanlegger3.dll
